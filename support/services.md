@@ -1,7 +1,7 @@
 # Služby
 
 {%hint style="info"%}
-Chceš si vypýtať podporu pre ďalšie služby? Otvor [trouble](https://github.com/Timeraa/PreMiD/issues/new?template=service_request.md)!
+Chceš si vypýtať podporu pre ďalšie služby? Otvor [ťažkosti](https://github.com/Timeraa/PreMiD/issues/new?template=service_request.md)!
 {%endhint%}
 
 | Video | Hudba | Anime |
