@@ -1,4 +1,4 @@
-# Príklady
+# Príklad
 
 #### Príklady
 
