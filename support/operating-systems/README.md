@@ -1,8 +1,8 @@
-# Operating systems
+# Operačné Systémy
 
-| Operating Systems | App | Chrome | Firefox |
+| Operačné Systémy | Aplikácia | Chrome | Firefox |
 | :---: | :---: | :---: | :---: |
 | Windows | ✓ | ✓ | Beta |
-| Linux | Self-build | ✓ | Beta |
+| Linux | Samo-postavený | ✓ | Beta |
 | Mac OS | ✓ | ✓ | Beta |
 
