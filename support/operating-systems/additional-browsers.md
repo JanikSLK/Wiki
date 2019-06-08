@@ -1,6 +1,6 @@
-# Additional Browsers
+# Dodatočné Prehliadače
 
-| Operating Systems | Opera | Chromium-based |
+| Operačné Systémy | Opera | Založené na Chromium |
 | :---: | :---: | :---: |
 | Windows | ✓ | ✓ |
 | Linux | ✓ | ✓ |
