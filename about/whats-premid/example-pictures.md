@@ -1,13 +1,13 @@
-# Example pictures
+# Príklady
 
-#### Examples
+#### Príklady
 
-This is what you listen on YouTube:
+Toto je čo si vypočuješ na YouTube:
 
 ![YouTube](../../.gitbook/assets/yt_example.PNG)
 
   
-And this is what happens on your profile when PreMiD is running and able to get information from your browser: 
+a toto sa stane na tvojom profile keď PreMiD je spustený a je schopný dostať informácie z tvôjho prehliadaču: 
 
-![Discord RPC](../../.gitbook/assets/discord_rpc_example2.PNG)
+![Discordov RPC](../../.gitbook/assets/discord_rpc_example2.PNG)
 
