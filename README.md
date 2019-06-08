@@ -1,7 +1,7 @@
 # Domov
 
 ## Obsah
-* Ohľad
+* Ohľadom
   * [Čo je to RPC?](about/whats-rpc.md)
   * [Čo je PreMiD](about/whats-premid/)
     * [Príklady](about/whats-premid/example-pictures.md)
